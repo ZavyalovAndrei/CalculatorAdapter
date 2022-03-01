@@ -1,7 +1,7 @@
 # **Шаблоны проектирования.**
-## Домашнее задание к занятию 1.1: 
-## "Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype."
+## Домашнее задание к занятию 1.2: 
+## "Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight."
 
-# Задание №2
+# Задание №1
 
-# Логгер
+# Калькулятор
